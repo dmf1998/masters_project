@@ -40,3 +40,6 @@ This work implemented novel deep learning analysis on the cosmo-SLICS weak lensi
 
 #### Data Source
 - [Cosmo-*SLICS* Suite of Simulations](https://arxiv.org/abs/1905.06454)
+
+#### Citations
+- Citations can be found in the [academic paper](project_academic_paper.pdf) produced for this project

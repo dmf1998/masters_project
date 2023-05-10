@@ -22,7 +22,7 @@ In this research, we produce a novel deep learning usage of the cosmo-SLICS suit
 
 ### Optimal Model Architecture & Parameters
 
-<p align="center"><img src="images/cnn_architecture.pdf" width=600></p>
+<p align="center"><img src="images/cnn_architecture.png" width=600></p>
 
 
 ## Conclusion

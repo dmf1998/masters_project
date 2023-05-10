@@ -16,7 +16,7 @@ In this research, we produce a novel deep learning usage of the cosmo-SLICS suit
 
 ## Data Breakdown
 
-<!-- <p align="center"><img src="images/cnn_architecture.pdf" width=600></p> -->
+<!-- <p align="center"><img src="images/cnn_architecture.pdf" width=1000></p> -->
 
 
 

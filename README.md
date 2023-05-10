@@ -7,10 +7,10 @@
 In this research, we produce a novel deep learning usage of the cosmo-SLICS suite of weak lensing simulations, and analyze model performance in the prediction of cosmological parameters. We aim to improve predictive accuracy on these noise-free maps by exploring various convolutional neural network architectures and hyperparameters, varying the number of layers, learning rates, and number of inputted cosmological parameters. This report concludes by recommending our preferred architecture for future studies, which yielded 98.50% test accuracy on the S8 parameter. This indicates that deep learning cosmic shear analysis has the potential to outperform the standard two-point weak lensing statistical methods in cosmological parameter constraint.
 
 
-## Overview | Background | Motivation
+<!-- ## Overview | Background | Motivation -->
 
 
-## Navigating This Repository
+<!-- ## Navigating This Repository -->
 
 ## Data Breakdown - The cosmo-*SLICS* Suite of Simulations
 

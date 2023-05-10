@@ -15,9 +15,12 @@ In this research, we produce a novel deep learning usage of the cosmo-SLICS suit
 ## Data Breakdown - The cosmo-*SLICS* Suite of Simulations
 
 The suite of simulations used in this study, cosmo-*SLICS*, consists of N-body simulations of 25 *w*CDM cosmological models, varying Ω~m~, S~8~, h, and w~0~ within reasonable range of the Λ-CDM expected cosmology, alongside a fiducial cosmology – the cosmology representing the standard Λ-CDM model, with a fixed value of w~0~ = −1. The dataset is made up of 5 tomographic redshift bins: z = 0.1-0.3, 0.3-0.5, 0.5-0.7, 0.7-0.9, and 0.9-1.1. This redshift bin distribution matches the distribution found in the KiDS-1000 data release, which allows for broader future use of the developed deep learning models.
-The simulations produced cosmological maps for the 26 unique cosmologies in the form of 128x128 pixel arrays distributed across a 5 degree by 5 degree space for 5 redshift bins, with unit-less values roughly between -1 and +1 at each point. These simulations produce Kappa maps – maps that use the shear signal to infer projected matter density onto a 2D plane along the line of sight. Kappa maps differ from shear (or ellipticity) maps in that they cannot be directly observed, but instead must be calculated from shear maps via a set of Fourier transformations. They depict under-densities as negative values and over- densities as positive values; in Figure 4, the bright spots represent the over-densities and the dark spaces represent cosmic voids.
 
 <p align="center"><img src="images/cosmo_SLICS_weak_lensing_convergence_maps.png" width=500></p>
+
+The simulations produced cosmological maps for the 26 unique cosmologies in the form of 128x128 pixel arrays distributed across a 5 degree by 5 degree space for 5 redshift bins, with unit-less values roughly between -1 and +1 at each point. These simulations produce Kappa maps – maps that use the shear signal to infer projected matter density onto a 2D plane along the line of sight. Kappa maps differ from shear (or ellipticity) maps in that they cannot be directly observed, but instead must be calculated from shear maps via a set of Fourier transformations. They depict under-densities as negative values and over- densities as positive values; in Figure 4, the bright spots represent the over-densities and the dark spaces represent cosmic voids.
+
+
 
 ### Optimal Model Architecture & Parameters
 

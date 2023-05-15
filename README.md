@@ -38,6 +38,7 @@ The simulations produced cosmological maps for the 26 unique cosmologies in the 
 This work implemented novel deep learning analysis on the cosmo-SLICS weak lensing maps with the objective of producing high accuracy convolutional neural networks trained on a set of four cosmological parameters (S~8~ , Ω~m~ , h, and w~0~ ). Thorough testing yielded a CNN that predicted with 97.07% confidence on the S~8~ parameter when trained with the four cosmological parameters. This led to two parameter training exclusively on S~8~ and Ω~m~, which produced a best accuracy prediction on S~8~ of 98.50%. This result reinforced the knowledge that S~8~ and Ω~m~ have more significance in the use of weak lensing maps for cosmological parameter inference. The results of this research allowed for the proposal of a great deal of future work, suggesting that deep learning cosmic shear analysis has the potential to outperform traditional weak lensing statistical methodology used in cosmological parameter constraint.
 
 
+
 #
 
 #### Advisors
